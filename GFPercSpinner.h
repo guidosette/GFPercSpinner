@@ -45,11 +45,4 @@
  */
 - (float)currentProgress;
 
-
-- (void)startAnimation;
-
-- (void)stopAnimation;
-
-- (bool)isAnimation;
-
 @end
